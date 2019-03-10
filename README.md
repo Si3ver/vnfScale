@@ -1,2 +1,3 @@
 # vnfScale
-experiment for vnf scaling
+
+关于VNF scale测量的真实实验
